@@ -1,0 +1,5 @@
+﻿<Properties StartupConfiguration="{1BA6B88B-8E4B-4769-91DC-A878A9AC37CB}|">
+  <MonoDevelop.Ide.ItemProperties.Bootstrap FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Bootstrap.Tests FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>
